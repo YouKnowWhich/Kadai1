@@ -7,7 +7,6 @@
 
 import UIKit
 
-
 class ViewController: UIViewController {
 
     // テキストフィールドの配置、入力文字の取得
@@ -40,12 +39,10 @@ class ViewController: UIViewController {
     // ラベルの配置
     @IBOutlet weak var sumLabel: UILabel!
 
-
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
 
 }
 
